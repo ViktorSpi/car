@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="$o`NC{PDPtawvOwq`|BG" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id=");}Hk?KePB0_$+Ja)1Q$"><value name="text"><shadow type="text" id="Wm@[X1lqF[^cbvh{0{m%"><field name="TEXT">Viktor</field></shadow></value></block></statement></block></xml>
